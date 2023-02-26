@@ -1,0 +1,8 @@
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\bin\Debug\Fundamentos de COmputacion.exe.config
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\bin\Debug\Fundamentos de COmputacion.exe
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\bin\Debug\Fundamentos de COmputacion.pdb
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\obj\Debug\Fundamentos de COmputacion.csproj.AssemblyReference.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\obj\Debug\Fundamentos de COmputacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\obj\Debug\Fundamentos de COmputacion.csproj.CoreCompileInputs.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\obj\Debug\Fundamentos de COmputacion.exe
+C:\Users\Canal\Desktop\PROGRAMACION II\Fundamentos de COmputacion\Fundamentos de COmputacion\obj\Debug\Fundamentos de COmputacion.pdb
